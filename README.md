@@ -1,4 +1,4 @@
-brackets-wpeditor-plugin
-========================
+WordPress Theme Editor for Brackets Plugin
+==========================================
 
-This is the WordPress plugin side of the WordPress Theme Editor extension for Brackets.
+This is the WordPress plugin side of WordPress Theme Editor for Brackets.
